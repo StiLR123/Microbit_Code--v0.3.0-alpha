@@ -1,3 +1,3 @@
-# FLL_Unearthed
+# Microbit Code v0.3.0-alpha
 
-All of the code for our team's FLL Unearthed Challenge
+The microbit code (and some of our early robot runs) from our inital idea for the 2025 FLL Unearthed Regionals
